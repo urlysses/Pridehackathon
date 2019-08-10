@@ -1,0 +1,5 @@
+                        16885454a:6:{s:15:"jobs_logo_width";s:2:"8%";s:22:"jobs_logo_width_mobile";s:3:"20%";s:17:"jobs_logo_padding";s:16:"7px 10px 2px 2px";s:23:"jobs_candidates_on_flag";s:1:"1";s:22:"jobs_subheader_bg_path";s:28:"uploads/images/subheader.png";s:10:"custom_css";s:70:"/* example */
+
+div.filterHeadline {
+ color:  #46CAC6  !important
+}";}
